@@ -6,4 +6,6 @@ Server
 - Gradle
 
 View
-Servlet/jsp/Jquery
+- Servlet/jsp/Jquery 2.2.4
+
+
